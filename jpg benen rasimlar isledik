@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Azamay</title>
+        
+    </head>
+    <body>
+        <p>rasimlar</p>
+        <img src="rat.jpg" width="200">
+    </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Azamay</title>
+        
+    </head>
+    <body>
+        <p>rasimlar</p>
+        <img src="cat.jpg" width="300">
+    </body>
+</html>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Azamay</title>
+        
+    </head>
+    <body>
+        <p>rasimlar</p>
+        <img src="home.jpg" width="400">
+    </body>
+</html>
+
+
+            
